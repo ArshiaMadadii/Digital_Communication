@@ -16,10 +16,3 @@ This repository contains a set of Python-based simulation projects for **Digital
 4. **OFDM (Orthogonal Frequency Division Multiplexing)**  
    A complete simulation of an **OFDM system**, showing how data is transmitted over multiple subcarriers.
 
-## Requirements
-
-- Python 3.x
-- Required libraries can be installed using the following command:
-
-```bash
-pip install -r requirements.txt
